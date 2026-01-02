@@ -1,0 +1,7 @@
+# Binarios de Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
