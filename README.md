@@ -27,11 +27,4 @@ Este repo es mi bitácora personal donde subo todos los ejercicios, ejemplos y s
 - Empezar proyectos pequeños (CLI tools, web servers con Gin o net/http).
 - Llegar a contribuir a proyectos open source en Go.
 
-¡Si tenés sugerencias o feedback, abrí un issue o mandame un mensaje!
-
-### 📈 Estadísticas rápidas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lautaro-Balda&show_icons=true&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro-Balda&layout=compact&theme=dark)
-
 ¡Gracias por pasar! 🐹
