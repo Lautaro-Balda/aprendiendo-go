@@ -5,7 +5,7 @@
 Este repo es mi bitácora personal donde subo todos los ejercicios, ejemplos y soluciones que voy resolviendo mientras aprendo el lenguaje. La idea es dejar constancia de mi progreso, practicar commits regulares y tener todo organizado para revisar después (o mostrar a futuros reclutadores 😄).
 
 ### 📊 Progreso actual
-- *Ejercicios de Exercism completados: ~34/144* 
+- *Ejercicios de Exercism completados: ~42/144* 
 - Temas cubiertos: Todos los conceptos del tour de Go explicados a través del módulo "Learn" de Exercism.
 - Fecha de inicio: Enero 2026
 

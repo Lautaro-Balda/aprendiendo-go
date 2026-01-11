@@ -14,9 +14,10 @@ var PeriodosOrbitales = map[Planet]float64{
 }
 
 func Age(seconds float64, planet Planet) float64 {
-	if PeriodosOrbitales[planet] > 0.0 {
-		return seconds / (31557600 * PeriodosOrbitales[planet])
-
+	_, ok := PeriodosOrbitales[planet]
+	if !ok {
+		return -1
 	}
-	return -1
+
+	return seconds / (31557600 * PeriodosOrbitales[planet])
 }
